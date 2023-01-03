@@ -1,0 +1,1 @@
+Simple site with food recipes as a practice of basic HTML and CSS.
